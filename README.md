@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on my integrated project as a backend dev :D
 - 🌱 I’m currently learning on mobile app, game and backend development
-- 📫 How to reach me: **[Instagram: Nannapatx](https://www.instagram.com/nannapatx)**, **[Facebook: Nannapat Petcharach](https://www.facebook.com/Tonpor2545)**
+- 📫 How to reach me: **[(https://skillicons.dev/icons?i=instagram&perline=1)](https://skillicons.dev)(https://www.instagram.com/nannapatx)**, **[(https://skillicons.dev/icons?i=facebook&perline=1)](https://www.facebook.com/Tonpor2545)**
 - ⚡ Fun fact: I love cats and cactuses!!
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,arduino,java,html,css,cpp,linux,mysql&perline=10)](https://skillicons.dev)
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,linux,mysql&perline=10)](https://skillicons.dev)
