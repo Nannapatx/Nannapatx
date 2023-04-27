@@ -5,4 +5,4 @@
 - 📫 How to reach me: **[Instagram: Nannapatx](https://www.instagram.com/nannapatx)**, **[Facebook: Nannapat Petcharach](https://www.facebook.com/Tonpor2545)**
 - ⚡ Fun fact: I love cats and cactuses!!
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,arduino,java,html,css,cpp,linux,mysql=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,arduino,java,html,css,cpp,linux,mysql&perline=5)](https://skillicons.dev)
