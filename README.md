@@ -11,4 +11,4 @@
 
 ![Nannapatx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nannapatx&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/Nannapatx/github-readme-stats)
-[![Nannapatx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Nannapatx/github-readme-stats)
+[![Nannapatx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical)](https://github.com/Nannapatx/github-readme-stats)
