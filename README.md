@@ -9,6 +9,6 @@
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,linux,mysql&perline=10)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nannapatx&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nannapatx&layout=compact&theme=radical)](
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nannapatx&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nannapatx&layout=compact&theme=radical)](
 
