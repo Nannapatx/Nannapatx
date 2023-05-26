@@ -8,6 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram&perline=10)](https://www.instagram.com/nannapatx)
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,linux,mysql&perline=10)](https://skillicons.dev)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/Nannapatx/github-readme-stats)
-[![Nannapatx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical)](https://github.com/Nannapatx/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nannapatx&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nannapatx&layout=compact&theme=radical)](https://github.com/Nannapatx/github-readme-stats)
+[![Nannapatx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nannapatx&theme=radical)](https://github.com/Nannapatx/github-readme-stats)
