@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nannapat Petcharach!
 
-- 🔭 I’m currently working on my integrated project as a backend dev :D
+- 🔭 I’m currently working on my major's integrated project as a fullstack dev (mostly in BE) :D
 - 🌱 I’m currently learning on mobile app, game and backend development
 - ⚡ Fun fact: I love cats and cactuses!!
 
