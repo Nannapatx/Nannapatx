@@ -7,7 +7,7 @@
 ### 📫 How to reach me 
 [![My Skills](https://skillicons.dev/icons?i=instagram&perline=10)](https://www.instagram.com/nannapatx)
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,linux,react,vue,typescript&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,linux,react,vue,typescript,python&perline=10)](https://skillicons.dev)
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,itellij,netbeans,mysql&perline=10)](https://skillicons.dev)
 
