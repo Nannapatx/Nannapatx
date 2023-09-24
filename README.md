@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **my major's integrated project as a fullstack dev (mostly in BE)**
 
-- 🌱 I’m currently learning **mobile app, game and front-end development**
+- 🌱 I’m currently learning **mobile app, game, front-end development, Japanese (current N5)**
 
 - 💬 Ask me about **anything !!**
 
-- ⚡ Fun fact **I love to code as much as sleeping**
+- ⚡ Fun fact **I speak 3 languages: Thai, English, Mandarin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
