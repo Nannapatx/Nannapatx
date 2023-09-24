@@ -1,11 +1,21 @@
-### Hi there 👋 I'm Nannapat Petcharach!
-An energetic, confrontational and passionate IT student who loves 3Cs "cat, cactuses, coding" :D
-- 🔭 I’m currently working on my major's integrated project as a fullstack dev (mostly in BE)
-- 🌱 I’m currently learning on mobile app, game and front-end development
-- ⚡ Fun fact: I love to code as much as sleeping
+<h1 align="center">Hi 👋, I'm Nannapat Petcharach</h1>
+<h3 align="center">An energetic, confrontational and passionate IT student who loves 3Cs "cat, cactuses, coding"</h3>
 
-### 📫 How to reach me 
-[![My Skills](https://skillicons.dev/icons?i=instagram&perline=10)](https://www.instagram.com/nannapatx)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nannapatx&label=Profile%20views&color=0e75b6&style=flat" alt="nannapatx" /> </p>
+
+- 🔭 I’m currently working on **my major's integrated project as a fullstack dev (mostly in BE)**
+
+- 🌱 I’m currently learning **mobile app, game and front-end development**
+
+- 💬 Ask me about **anything !!**
+
+- ⚡ Fun fact **I love to code as much as sleeping**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/nannapat petcharach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nannapat petcharach" height="30" width="40" /></a>
+<a href="https://instagram.com/nannapatx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nannapatx" height="30" width="40" /></a>
+</p>
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,linux,react,vue,typescript,python&perline=10)](https://skillicons.dev)
 ## Tools
