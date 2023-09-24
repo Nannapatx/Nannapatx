@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Nannapat Petcharach!
-
-- 🔭 I’m currently working on my major's integrated project as a fullstack dev (mostly in BE) :D
-- 🌱 I’m currently learning on mobile app, game and backend development
-- ⚡ Fun fact: I love cats and cactuses!!
+An energetic, confrontational and passionate IT student who loves 3Cs "cat, cactuses, coding" :D
+- 🔭 I’m currently working on my major's integrated project as a fullstack dev (mostly in BE)
+- 🌱 I’m currently learning on mobile app, game and front-end development
+- ⚡ Fun fact: I love to code as much as sleeping
 
 ### 📫 How to reach me 
 [![My Skills](https://skillicons.dev/icons?i=instagram&perline=10)](https://www.instagram.com/nannapatx)
