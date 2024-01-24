@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nannapatx&label=Profile%20views&color=0e75b6&style=flat" alt="nannapatx" /> </p>
 
-- 🔭 I’m currently working on **my major's integrated project as a fullstack dev (mostly in BE)**
+- 🔭 I’m currently working as an intern at **Odds team**
 
 - 🌱 I’m currently learning **mobile app, game, front-end development, Japanese (current N5)**
 
 - 💬 Ask me about **anything !!**
 
-- ⚡ Fun fact **I speak 3 languages: Thai, English, Mandarin**
+- ⚡ Fun facts: **I speak 3 languages: Thai, English, Mandarin (currently practicing japanese)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +20,7 @@
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,react,vue,typescript,python&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,react,vue,typescript,python,kotlin&perline=10)](https://skillicons.dev)
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,mysql,figma,git,mongodb,spring,tailwind&perline=10)](https://skillicons.dev)
 ## Stats
