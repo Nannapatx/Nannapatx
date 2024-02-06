@@ -20,7 +20,7 @@
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,react,vue,typescript,python,kotlin&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,react,vue,typescript,python,kotlin,nextjs&perline=10)](https://skillicons.dev)
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,mysql,figma,git,mongodb,spring,tailwind&perline=10)](https://skillicons.dev)
 ## Stats
