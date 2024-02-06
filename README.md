@@ -25,4 +25,4 @@
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,mysql,figma,git,mongodb,spring,tailwind&perline=10)](https://skillicons.dev)
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nannapatx&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nannapatx&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nannapatx)](https://github.com/anuraghazra/github-readme-stats)
