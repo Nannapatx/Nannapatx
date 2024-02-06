@@ -20,9 +20,9 @@
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,react,vue,typescript,python,kotlin,nextjs&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,react,vue,typescript,python,kotlin,nextjs,spring,tailwind&perline=20)](https://skillicons.dev)
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,mysql,figma,git,mongodb,spring,tailwind&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,mysql,figma,git,mongodb&perline=10)](https://skillicons.dev)
 ## Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Nannapatx&show_icons=true&theme=radical">
