@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything !!**
 
-- ⚡ Fun facts: **I speak 3 languages: Thai, English, Mandarin (currently practicing japanese)**
+- ⚡ Fun facts: **I speak 3 languages: Thai, English, Mandarin (currently practicing japanese), i've developed 2d game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,9 +20,10 @@
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,react,vue,typescript,python,kotlin,nextjs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,cpp,react,vue,typescript,python,kotlin,nextjs&perline=20)](https://skillicons.dev)
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,mysql,figma,git,mongodb,spring,tailwind&perline=10)](https://skillicons.dev)
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nannapatx&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nannapatx&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nannapatx&show_icons=true&theme=radical">
+</div>
