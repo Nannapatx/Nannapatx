@@ -26,4 +26,5 @@
 ## Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Nannapatx&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nannapatx&layout=compact&theme=radical">
 </div>
