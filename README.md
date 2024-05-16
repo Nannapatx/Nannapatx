@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as an intern at **Odds team**
 
-- 🌱 I’m currently learning **mobile app, game, front-end development, Japanese (current N5)**
+- 🌱 I’m currently learning **game development, machine learning, Japanese (current N5)**
 
 - 💬 Ask me about **anything !!**
 
