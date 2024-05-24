@@ -19,10 +19,13 @@
 
 
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,react,vue,typescript,kotlin,nextjs,spring,tailwind,docker,styledcomponents,mongodb,sass,ruby,fastify&perline=20)](https://skillicons.dev)
+## Tech Stacks
+# Languages
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,typescript,kotlin,mongodb,ruby,sql&perline=20)](https://skillicons.dev)
+# Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,spring,tailwind,docker,styledcomponents,mongodb,sass,fastify,mysql,pinia,rails&perline=20)](https://skillicons.dev)
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,maven,mysql,figma,git,gradle,npm,pinia,postman,yarn,rails&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,maven,figma,git,gradle,npm,postman,yarn&perline=20)](https://skillicons.dev)
 ## Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Nannapatx&show_icons=true&theme=radical">
