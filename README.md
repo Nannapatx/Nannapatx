@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nannapatx&label=Profile%20views&color=0e75b6&style=flat" alt="nannapatx" /> </p>
 
-- 🔭 I’m currently working as an intern full-stack developer at **Odds team**
+- 🔭 I’m currently working as a full-stack developer at **Odds team**
 
 - 🌱 I’m currently learning **ruby on rails, go, machine learning, Japanese (current N5)**
 
