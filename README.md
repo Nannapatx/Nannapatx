@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything !!**
 
-- ⚡ Fun facts: **I speak 3 languages: Thai, English, Mandarin (currently practicing japanese), i've developed 2d game**
+- ⚡ Fun facts: **I speak 3 languages: Thai, English, Mandarin (currently practicing japanese)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
