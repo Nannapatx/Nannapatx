@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nannapat Petcharach</h1>
 <h3 align="center">An energetic, confrontational and passionate IT student who loves 3Cs "cat, cactuses, coding"</h3>
 
-- 🔭 I’m currently working as a full-stack developer at **Odds team**
+- 🔭 I’m currently working as an Associate full-stack developer at **Odds team**
 
 - 🌱 I’m currently learning **ruby on rails, go, machine learning, Japanese (current N5)**
 
