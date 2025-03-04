@@ -19,7 +19,7 @@
 
 ## Tech Stacks
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,typescript,kotlin,ruby&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,typescript,kotlin,go&perline=20)](https://skillicons.dev)
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,spring,tailwind,docker,styledcomponents,mongodb,sass,mysql,pinia,rails&perline=20)](https://skillicons.dev)
 ### Tools
