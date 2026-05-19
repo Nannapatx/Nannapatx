@@ -26,6 +26,6 @@
 [![My Skills](https://skillicons.dev/icons?i=maven,figma,git,npm,postman,yarn&perline=20)](https://skillicons.dev)
 ## Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nannapatx&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nannapatx&layout=compact&theme=radical">
+![Nannapatx's GitHub stats](https://github-readme-stats.vercel.app/api?username=nannapatx&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nannapatx&layout=compact)
 </div>
